@@ -1,0 +1,9 @@
+# Build/export artifacts
+*.pdf
+*.pptx
+*.html
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
