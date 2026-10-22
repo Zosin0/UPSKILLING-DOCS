@@ -1,10 +1,10 @@
 # UpSkilling DevSecOps - Repo de Documentacao
 
-- Integrantes do Projeto
-Lucas Zoser Nunes Costa
-Lucas Batista do Nascimento
-Jose Augusto Comparotto Rodrigues
-Jesusmar Sousa Teixeira
+## Integrantes do Projeto
+- Lucas Zoser Nunes Costa
+- Lucas Batista do Nascimento
+- Jose Augusto Comparotto Rodrigues
+- Jesusmar Sousa Teixeira
 
 Este repositorio contem apenas documentacao tecnica e executiva do trabalho de UpSkilling em GitHub Actions, sem dependencia de codigo fonte e sem referencias a repositórios da organizacao.
 
